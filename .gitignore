@@ -1,1 +1,5 @@
 training_data/
+model.h5
+alexnet/
+geckodriver.log
+rose.jpg
